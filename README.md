@@ -2,7 +2,8 @@
 
 This repository contains the collection of Python-based teaching materials and interactive scripts developed by me for Bangladesh International School and College's (BISC) Physics Club during the 2024-2025 academic year. While originally kept offline, a recent request for access after my relocation to Texas prompted me to make the collection publicly available here on GitHub.
 
-These scripts are interactive GUI simulations covering core **Physics I** topics: momentum & collisions, refraction of light, projectile motion, and simple harmonic motion (pendulum). Each one opens in its own window with sliders, a Play/Pause button, and a Reset button — no separate GUI library needed, just Python + matplotlib.
+These scripts are interactive GUI simulations covering core **Physics I** topics: momentum & collisions, refraction of light, projectile motion, and simple harmonic motion (pendulum). Each one opens in its own window with sliders, a Play/Pause button, and a Reset
+button.
 
 ## Requirements
 
